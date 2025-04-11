@@ -1,0 +1,14 @@
+node_modules/
+test-results/
+playwright-report/
+allure-results/
+allure-report/
+settings/cookies/*
+refs/
+updated-refs/
+.idea
+.env
+package-lock.json
+renameRefs.js
+test-data/test-files/config.yaml
+test-data/test-files/timeweb1.conf
